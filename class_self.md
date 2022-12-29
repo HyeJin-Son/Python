@@ -8,7 +8,7 @@ class UserName: #유저의 자료형
     메서드
 ```
 ex)합을 구하는 클래스
-```
+```python
 class U_class : #
     a=0
     b=0
@@ -23,7 +23,7 @@ class U_class : #
 - 메소드 매개인자로 첫인자는 클래스의 주소를 가지는 의미로 self를 명시함
 - 메서드 호출 시 self는 따로 전달하지 않아도 됨.
 - ex) 합을 구하는 클래스
-```
+```python
 class U_class : 
     a=0
     b=0
